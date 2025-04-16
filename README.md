@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a B.Tech Information Technology student at Shri Ramdeobaba College of Engineering and Management with a passion for backend development, cloud solutions, and IoT systems. Currently working as a Packaged App Developer at Accenture, I'm focused on building scalable applications using Java, Spring Boot, and AWS.
+I'm a B.Tech Information Technology student at Shri Ramdeobaba College of Engineering and Management with a passion for backend development, cloud solutions, and IoT systems. Currently working as a Packaged App Developer at Accenture, I'm focused on building scalable applications using but not limited to Java, Spring Boot, javascript, nodeJs and any programming framework adaptable with modern technologies and AWS.
 
 ## 🛠️ Tech Stack
 
@@ -63,7 +63,7 @@ CGPA: 8.5
 
 ## 📫 Connect With Me
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [your.email@example.com](mailto:vinayrewatkar.257@gmail.com)
 - LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
 - GitHub: [github.com/vinayrewatkar](https://github.com/vinayrewatkar)
 
