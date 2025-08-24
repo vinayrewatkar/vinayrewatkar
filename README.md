@@ -63,8 +63,8 @@ CGPA: 8.5
 
 ## 📫 Connect With Me
 
-- Email: [your.email@example.com](mailto:vinayrewatkar.257@gmail.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+- Email: [vinayrewatkar.257@gmail.com](mailto:vinayrewatkar.257@gmail.com)
+- LinkedIn: [linkedin.com/in/yourprofile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/vinay-rewatkar-659a2522a/))
 - GitHub: [github.com/vinayrewatkar](https://github.com/vinayrewatkar)
 
 ---
